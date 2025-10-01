@@ -7,7 +7,7 @@ I'm a Sophomore at Drexel; Honors BSCS with minors in Data Science & Finance, co
 
 ## 💻 Languages and Tools
 
-<div style="background-color:#f6f8fa; padding:10px; border-radius:6px; display:flex; flex-wrap:wrap; gap:10px;">
+<p align="center" style="background-color:#f6f8fa; padding:10px; border:1px solid #ddd; border-radius:6px;">
   <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -25,7 +25,7 @@ I'm a Sophomore at Drexel; Honors BSCS with minors in Data Science & Finance, co
   <img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
   <img align="left" alt="MatPlotLib" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
   <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-</div>
+</p>
 <br />
 
 ## 📊 GitHub Stats
