@@ -18,3 +18,14 @@ I'm a Sophomore at Drexel; Honors BSCS with minors in Data Science & Finance, co
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <br />
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=theChosen-1&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![](https://github-profile-trophy.vercel.app/?username=theChosen-1&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+
+
